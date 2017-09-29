@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week5Test</string>
+
+    <string-array name="options_array">
+        <item>Show Full Image</item>
+        <item>Show Small Image</item>
+    </string-array>
+</resources>
